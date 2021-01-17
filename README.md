@@ -67,3 +67,4 @@ r.simpledynamiclighting=1
 bEnableMouseSmoothing=False
 r.TonemapperOutputGamut=0.65
 r.Color.Mid=0.65
+
