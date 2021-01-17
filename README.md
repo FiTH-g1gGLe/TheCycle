@@ -1,4 +1,3 @@
-# TheCycle
 # FiTH-g1gGLe The Cycle Config
 # Website:www.fithgaming.co.uk
 # Discord:https://discord.gg/pB3zJ3A
