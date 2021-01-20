@@ -7,7 +7,7 @@
 My Settings for The Cycle (Resolution 2560x1440 @ 165hz)
 
 Launch Param's
--USEALLAVAILABLECORES -NOSPLASH -NOTEXTURESTREAMING -NoVSync
+-USEALLAVAILABLECORES -NOSPLASH -NoVSync
 
 Config File Location
 %LOCALAPPDATA%\Prospect\Saved\Config\WindowsNoEditor\Engine.ini
